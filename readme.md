@@ -58,8 +58,8 @@ This project uses buttons, LEDs, and a buzzer to build a simple binary calculato
 - Press first number button to count first value (0 to 15).
 - Press second number button to count second value (0 to 15).
 - Press sign button to toggle operation:
-	- Off = addition
-	- On = subtraction
+	- On = addition
+	- Off = subtraction
 - Press result button to calculate and show result on result LEDs.
 
 
